@@ -9,7 +9,7 @@
 
 # ABOUT
 
-This is an E-commerce API made by using Node.Js & MongoDB Atlas.
+This is an E-commerce API made by using Node.Js & MongoDB .
 
 STEPS TO USE THE API:
 
